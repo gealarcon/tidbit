@@ -1,7 +1,7 @@
-export default function AdminPostPage({ }) {
-    return (
-      <main>
-          <h1>AdminPostPage</h1>
-      </main>
-    )  
-  }
+export default function AdminPostPage({}) {
+  return (
+    <main>
+      <h1>AdminPostPage</h1>
+    </main>
+  );
+}
